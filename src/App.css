@@ -1,16 +1,15 @@
 body {
     font-family: 'Source Code Pro', monospace;
     background-color: #292C34;
-
+    color: #B5BBBB;
 }
 
 .App-header {
-    min-height: 100vh;
+    min-height: 90vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     font-size: calc( 1.5vw);
-    color: white;
 }
 
 .red {
