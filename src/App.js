@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component {
     render() {
         const today = new Date();
-        const tabs = today.getHours() % 12;
+        const tabs = today.getHours() % 12 + 1;
         return (
             <div className="App">
                 <header className="App-header">
