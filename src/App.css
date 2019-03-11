@@ -1,0 +1,30 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #292C34;
+
+}
+
+.App-header {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc( 1.5vw);
+    color: white;
+}
+
+.red {
+    color: #D1575A;
+}
+
+.blue {
+    color: #56B6C2;
+}
+
+.grey {
+    color: #394048;
+}
+
+.light-grey {
+    color: #B5BBBB;
+}
